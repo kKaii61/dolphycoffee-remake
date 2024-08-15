@@ -1,0 +1,22 @@
+{
+  "name": "dolphycoffee-remake",
+  "version": "1.0.0",
+  "description": "Upgrade version of dolphy coffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kKaii61/dolphycoffee-remake.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "kainowf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kKaii61/dolphycoffee-remake/issues"
+  },
+  "homepage": "https://github.com/kKaii61/dolphycoffee-remake#readme"
+}
